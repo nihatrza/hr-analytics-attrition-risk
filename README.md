@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="assets/page1_overview.png" alt="Dashboard Banner" width="850"/>
+<img src="assets/p1_overview.png" alt="Dashboard Banner" width="850"/>
 
 <br/><br/>
 
@@ -74,22 +74,22 @@ The Power BI report (`report/HR_Analytics.pbix`) is organized into four purpose-
 <div align="center">
 
 ### 🏠 Overview — Executive Workforce Snapshot
-<img src="assets/page1_overview.png" alt="Overview Dashboard" width="800"/>
+<img src="assets/p1_overview.png" alt="Overview Dashboard" width="800"/>
 
 <br/><br/>
 
 ### 👥 Demographics — Workforce Composition & Segmentation
-<img src="assets/page2_demographics.png" alt="Demographics Dashboard" width="800"/>
+<img src="assets/p2_demographics.png" alt="Demographics Dashboard" width="800"/>
 
 <br/><br/>
 
 ### 😊 Satisfaction & Pay — Engagement vs. Compensation Analysis
-<img src="assets/page3_satisfaction.png" alt="Satisfaction Dashboard" width="800"/>
+<img src="assets/p3_satisfaction.png" alt="Satisfaction Dashboard" width="800"/>
 
 <br/><br/>
 
 ### 🎯 Risk Detector — Attrition Risk Command Center
-<img src="assets/page4_risk_detector.png" alt="Risk Detector Dashboard" width="800"/>
+<img src="assets/p4_risk_detector.png" alt="Risk Detector Dashboard" width="800"/>
 
 </div>
 
